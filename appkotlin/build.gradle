@@ -7,7 +7,7 @@ android {
 
 
     defaultConfig {
-        applicationId "antonioleiva.com.appkotlin"
+        applicationId "mvpexample.com.appkotlin"
         minSdkVersion 21
         targetSdkVersion 27
         versionCode 1
